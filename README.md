@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm an Associate Software Engineer at Inexture Solutions LLP
+## I'm a Senior Software Developer 1
 
-- 👨‍💻 I’m currently working as a Backend Developer(Python).
+- 👨‍💻 I’m currently working as a Backend Developer(Python) + GenAI.
 - 📚 Learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
